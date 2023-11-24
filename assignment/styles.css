@@ -19,14 +19,27 @@ li {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+.box {
+    width: 250px; 
+    height: 150px; 
+    color: #fff; 
+    padding: 4px 12px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 15px;
+    border: 3px solid white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .intro {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 .singapore {
     opacity: 1.8;
-    height: 50px;
-    width: 80px;
+    height: 25px;
+    width: 40px;
+    vertical-align: middle;
 }
 
 .codes {
